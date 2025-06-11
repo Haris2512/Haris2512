@@ -21,8 +21,6 @@
 
 ##### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 [![](https://visitcount.itsvg.in/api?id=Haris&icon=0&color=0)](https://visitcount.itsvg.in)
 ##### ✍️ Play Game With Me
 [![](https://visitcount.itsvg.in/api?id=Haris2512&icon=0&color=0)](https://visitcount.itsvg.in)
